@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meteusgtr.github.io/carro-de-vitrine/sitemap.xml
